@@ -1,5 +1,5 @@
 # Amazon-Reviews-Scraping-and-Classification
-Here, I scraped reviews from a product page under [Amazon](www.amazon.co.in) and used those reviews to train the basic Machine Learning classification models, to learn to classify the reviews as positive or negative.
+Here, I scraped reviews from a product page under Amazon and used those reviews to train the basic Machine Learning classification models, to learn to classify the reviews as positive or negative.
 The ML models used were Logistic Regression, Naive Bayes, K Nearest Neighbour, Decision Trees and Suppport Vector Machines.
 
 ## File Contents
