@@ -1,3 +1,7 @@
 # Amazon-Reviews-Scraping-and-Classification
 
-Scraping reviews for any amazon product using Beautiful Soup 4, cleaning the raw data, building a dataset out of all the info collected and training a classification model that takes in review content and determines whether the review is positive or negative.
+## Key Learnings
+- Scraped reviews for any amazon product using Beautiful Soup 4.
+- Cleaned the raw data using standard NLP procedures. 
+- Built a dataset out of all the info collected.
+- Trained classification models that takes in review content and determines whether the review is positive or negative.
